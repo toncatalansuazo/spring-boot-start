@@ -1,0 +1,4 @@
+rootProject.name = 'start-up'
+include 'core'
+include 'rest'
+include 'repository'
